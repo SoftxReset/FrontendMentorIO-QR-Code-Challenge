@@ -1,3 +1,5 @@
+Unfortunately my previous repository for this submission were formatted poorly, thus the creation of this repository. The second repository is still up as proof: https://github.com/SoftxReset/frontendmentorio-qr-code-component .
+
 Some of the resources from the original template were kept as a way of having access to learning resources. Majority, if not all, solution related information that is not my own have been removed.
 
 ## Table of contents
